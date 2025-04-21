@@ -1,6 +1,10 @@
 # Nombre del Proyecto
 CHIVO WALLET
 
+![Menu Principal](Capturas/Chivo_Menu.png)
+
+![Área Divisora](Capturas/Chivo_Divisor.png)
+
 ## LENGUAJE DE PROGRAMACIÓN
 C#
 
